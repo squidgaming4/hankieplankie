@@ -1,0 +1,633 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8787275940991886341
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8235753514029844986}
+  m_Layer: 0
+  m_Name: Big group of short grass
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8235753514029844986
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8787275940991886341}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -14.402219, y: -0.5672949, z: -21.785625}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6885616846752718855}
+  - {fileID: 5730576035319668883}
+  - {fileID: 3564679944810259460}
+  - {fileID: 6570680194233747053}
+  - {fileID: 8862035312822740231}
+  - {fileID: 432277515442366289}
+  - {fileID: 7261262079586014480}
+  - {fileID: 1580061321818162452}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &657044556608718905
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8235753514029844986}
+    m_Modifications:
+    - target: {fileID: 5669980836525099782, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_Name
+      value: Groep Short Grass (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.732219
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -19.44601
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.145625
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13acdc75c21197745b120231d68e9a03, type: 3}
+--- !u!4 &6570680194233747053 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+    type: 3}
+  m_PrefabInstance: {fileID: 657044556608718905}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &990603161618034259
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8235753514029844986}
+    m_Modifications:
+    - target: {fileID: 5669980836525099782, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_Name
+      value: Groep Short Grass (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.292219
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -19.471704
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.959625
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13acdc75c21197745b120231d68e9a03, type: 3}
+--- !u!4 &6885616846752718855 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+    type: 3}
+  m_PrefabInstance: {fileID: 990603161618034259}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2141159064181370567
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8235753514029844986}
+    m_Modifications:
+    - target: {fileID: 5669980836525099782, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_Name
+      value: Groep Short Grass (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.169219
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -19.44601
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.665626
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13acdc75c21197745b120231d68e9a03, type: 3}
+--- !u!4 &5730576035319668883 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+    type: 3}
+  m_PrefabInstance: {fileID: 2141159064181370567}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2940202326595431251
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8235753514029844986}
+    m_Modifications:
+    - target: {fileID: 5669980836525099782, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_Name
+      value: Groep Short Grass (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.402219
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -19.470705
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.225625
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13acdc75c21197745b120231d68e9a03, type: 3}
+--- !u!4 &8862035312822740231 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+    type: 3}
+  m_PrefabInstance: {fileID: 2940202326595431251}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3960031016147884868
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8235753514029844986}
+    m_Modifications:
+    - target: {fileID: 5669980836525099782, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_Name
+      value: Groep Short Grass (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.832219
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -19.508705
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.975625
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13acdc75c21197745b120231d68e9a03, type: 3}
+--- !u!4 &7261262079586014480 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+    type: 3}
+  m_PrefabInstance: {fileID: 3960031016147884868}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5178142586253429568
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8235753514029844986}
+    m_Modifications:
+    - target: {fileID: 5669980836525099782, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_Name
+      value: Groep Short Grass (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.732219
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -19.532705
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.345626
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13acdc75c21197745b120231d68e9a03, type: 3}
+--- !u!4 &1580061321818162452 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+    type: 3}
+  m_PrefabInstance: {fileID: 5178142586253429568}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6327054200575338757
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8235753514029844986}
+    m_Modifications:
+    - target: {fileID: 5669980836525099782, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_Name
+      value: Groep Short Grass (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.092218
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -19.44601
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.825625
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13acdc75c21197745b120231d68e9a03, type: 3}
+--- !u!4 &432277515442366289 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+    type: 3}
+  m_PrefabInstance: {fileID: 6327054200575338757}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7154458236247403088
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8235753514029844986}
+    m_Modifications:
+    - target: {fileID: 5669980836525099782, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_Name
+      value: Groep Short Grass (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.892219
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -19.44601
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.615625
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13acdc75c21197745b120231d68e9a03, type: 3}
+--- !u!4 &3564679944810259460 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5922783651744648788, guid: 13acdc75c21197745b120231d68e9a03,
+    type: 3}
+  m_PrefabInstance: {fileID: 7154458236247403088}
+  m_PrefabAsset: {fileID: 0}
