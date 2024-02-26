@@ -54,9 +54,13 @@ Material:
     - _Fill: -0.42
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _RibbleSize: 6
+    - _RibbleSpeed: 1
     - _WobbleX: 0
     - _WobbleZ: 0
     m_Colors:
     - _Color: {r: 0, g: 1, b: 0.95873094, a: 1}
+    - _RibbleColor: {r: 1, g: 1, b: 1, a: 0}
     - _Side_Color: {r: 0.02336242, g: 1, b: 0.95686275, a: 1}
+    - _WaterColor: {r: 0.2627451, g: 0.5635423, b: 0.7921569, a: 0}
   m_BuildTextureStacks: []
