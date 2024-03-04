@@ -41,6 +41,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: e7e5226261392394bab433e5630b37b5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _BaseNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseTexture:
         m_Texture: {fileID: 2800000, guid: 983ff03bdcd06f943bfd34f33a881dc1, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -51,6 +55,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _BovenKantColor:
         m_Texture: {fileID: 2800000, guid: 44c7603b052970745aab559643e810c9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BovenKantNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalFromTexture_1dce76776c8c49bc93a5b6f8a8813845_Texture_0_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalFromTexture_53086d52ac0a49f19a6486acbc64e73d_Texture_0_Texture2D:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -67,10 +83,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BovenKantAlbedoAmount: 1.65
-    - _Overloop: 2.84
+    - _BovenKantAlbedoAmount: 1.7
+    - _NormalStrenght: -1.46
+    - _Overloop: 0.8
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Overloop: {r: 3.34, g: 5.51, b: 0, a: 0}
+    - _Overloop: {r: 3.34, g: 0.48, b: 0, a: 0}
   m_BuildTextureStacks: []
